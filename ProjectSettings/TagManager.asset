@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crystal
+  - Spike
+  - Platform
+  - Stone
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GreenTree
+  - VioletTree
+  - VioletMushroom
+  - Astronot
+  - Zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Canvas
+  - Panel
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3472744969
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GreenTreeShort
+    uniqueID: 3686615481
+    locked: 0
+  - name: VioletTreeShort
+    uniqueID: 2986940013
+    locked: 0
+  - name: VioletMushroomShort
+    uniqueID: 1636126549
+    locked: 0
+  - name: Astronot
+    uniqueID: 334446549
+    locked: 0
+  - name: Canvas
+    uniqueID: 2110241779
+    locked: 0
